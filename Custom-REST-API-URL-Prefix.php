@@ -163,7 +163,7 @@ function BL_Custom_REST_API_URL_OptionsPage()
 
 // The most important piece of code, lol. Filters the REST API URL prefix.
 add_filter("rest_url_prefix", function () {
-    // Define the default prefix directly in the function
+    // Define the default prefix
     $default_prefix = "wp-json";
 
     // Check for a cached value to minimize database reads

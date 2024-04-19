@@ -6,4 +6,4 @@ To install the plugin, download the **'Custom-REST-API-URL-Prefix.php'** file an
 
 Another option is to upload it to **'mu-plugins'** folder, which is a good idea for this kind of functionality.
 
-You can configure the plugin settings under the 'Settings' menu.
+You can configure the plugin options under the 'Settings' menu.

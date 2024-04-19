@@ -20,7 +20,7 @@ function BL_Custom_REST_API_URL_AddMenuItems()
         "REST API URL Prefix", // Menu title
         "manage_options", // Only allow administrators by default; 'manage_options' should be sufficient
         "custom-restapi-url-prefix", // Menu slug
-        "BL_Custom_REST_API_URL_OptionsPage" // Function that outputs the content of your options page
+        "BL_Custom_REST_API_URL_OptionsPage" // Function that outputs the content of the options page
     );
 }
 
